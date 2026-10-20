@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Thank you for visit my profile</p>
+<p data-importer="text" align="left">Thank you for visiting my profile</p>
 
 ###
 
@@ -54,6 +54,8 @@
   <img src="https://skillicons.dev/icons?i=django" height="55" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="55" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="55" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="55" alt="sqlite logo"  />
   <img width="12" />
